@@ -142,7 +142,7 @@ int main()
     //printf("\nThe norm of v1 is %f",norm2(v1,3));
     //sorted(x1,6);
     //num(x1,6,789);
-    change(x2,6);
+    //change(x2,6);
     //diag(x1);
     //printf("%d",is_diag_dom(x1));
     return 0;
